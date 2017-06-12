@@ -1,0 +1,22 @@
+{
+  "name": "cryptopsy",
+  "version": "1.0.0",
+  "description": "Encryption/Decryption tests.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tykoth/cryptopsy.git"
+  },
+  "author": "Thiago Bocchile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tykoth/cryptopsy/issues"
+  },
+  "homepage": "https://github.com/tykoth/cryptopsy#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
